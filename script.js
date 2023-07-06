@@ -1,5 +1,6 @@
 //your code here
-let bandNames = ['The USA', 'The UAE', 'India', 'The Bahamas'];
+// Given array of band names
+let bandNames = ['The Beatles', 'Pink Floyd', 'Led Zeppelin', 'The Rolling Stones'];
 
 // Function to sort band names in lexicographic order excluding articles
 function sortBandNames(bandNames) {
